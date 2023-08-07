@@ -1,0 +1,1 @@
+scr_selector_find("center", 0)
